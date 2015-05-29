@@ -1,4 +1,4 @@
-# Kalon CSS Guidelines
+# CSS Guidelines
 
 A set of rules regarding CSS and how to write it in order to:
 
