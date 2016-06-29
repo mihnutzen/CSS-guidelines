@@ -51,7 +51,7 @@ All projects will have 1 main SCSS file
 /* —- Utils -— */
 
 // list of includes from outside the app
-// these files will be never changed by Kalon developers. 
+// these files will be never changed by developers. 
 // this category will include files such as:  reset.scss, box-sizing.scss, etc.
 
 @import('utils/reset');
@@ -64,7 +64,7 @@ All projects will have 1 main SCSS file
 
 // useful functions that will be used across the project
 // we can have 3 types of functions: 
-//		- Kalon wide
+//		- company wide
 //		- project specific
 //		- component specific (located inside the component file / folder)
 
